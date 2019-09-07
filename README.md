@@ -1,2 +1,2 @@
 # MemUsageTracker
-Script to track memory usage overtime
+Light-weight script to track memory usage overtime.
