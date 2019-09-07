@@ -1,7 +1,8 @@
 # MemUsageTracker
-Light-weight script to track memory usage overtime by monitoring the highest water mark periodically. 
+Light-weight script to track memory usage overtime by monitoring the highest water mark periodically. The script is implemented to be as efficient and light-weight (use less memory resources) as possible. 
 
 ## Build
+* On Linux:
   ```
   $make
   ```
