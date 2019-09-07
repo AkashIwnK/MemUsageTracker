@@ -1,5 +1,5 @@
 # MemUsageTracker
-Light-weight script to track memory usage overtime by monitoring the highest water mark periodically.
+Light-weight script to track memory usage overtime by monitoring the highest water mark periodically. 
 
 ## Build
   ```
